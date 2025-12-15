@@ -7,7 +7,6 @@ By maintaining multiple forward pointers at different levels for each node, a sk
 
 This project provides a complete implementation of a skip list in the C programming language, together with automated test generation, benchmarking, correctness checking, and logging using Python scripts.
 
----
 
 ## Supported Operations
 
